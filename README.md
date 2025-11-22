@@ -14,7 +14,7 @@
 I'm a developer with a passion for building the solid, reliable systems that power great applications. I'm diving deep into backend technologies and database management to build efficient and scalable solutions.
 
 * 🔭 &nbsp; I'm currently collaborating on [**CoreTech Africa (ESIT-FARM)**](https://github.com/M-Davy/ESIT-FARM)
-* 🔭 &nbsp; I was lead in building a school project: [**Strathmore FoodHub (Class project)**](https://github.com/Amani-K-code/Strathmore-FoodHub.git)
+* 🏗️ &nbsp; I was lead in building a school project: [**Strathmore FoodHub (Class project)**](https://github.com/Amani-K-code/Strathmore-FoodHub.git)
 * 🌱 &nbsp; I'm currently learning **Node.js**, **Express**, and **Laravel**
 * 🎯 &nbsp; My goal is to become a **Certified DBMS Admin** & **AWS Cloud Practitioner** ☁️
 * 💬 &nbsp; Ask me about **Python**, **SQLAlchemy**, and **Database Design**
