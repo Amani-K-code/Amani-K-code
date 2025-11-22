@@ -28,7 +28,6 @@ Here are a few things I'm working on or have explored:
 * **Automated Public Transport Payment System:** [WIP] Conceptualizing a project to streamline public transport payments.
 * **CoreTech Africa (ESIT-FARM):** Contributing to a farm management system.
 
-*(More projects will be added here as they're built!)*
 
 ---
 
