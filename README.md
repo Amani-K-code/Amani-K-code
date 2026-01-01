@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhyOGc2bm01Ynp4ajRxaml2YnN1Znl2djNhb2gxd245bm01bzd6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JRgjhKV4UvgCpcue0q/giphy.gif" width="60%" alt="Ocean waves"/>
 </p>
 
-<h1 align="center">Yoh, I'm Amani </h1>
+<h1 align="center">Hi, I'm Amani </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Upcoming+Backend+Developer;Upcoming+DBMS+Administrator" />
