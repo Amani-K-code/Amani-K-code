@@ -25,7 +25,7 @@ I'm a developer with a passion for building the solid, reliable systems that pow
 ### 🚀 My Projects
 Here are a few things I'm working on or have explored:
 
-* **Automated Public Transport Payment System:** [WIP] Conceptualizing a project to streamline public transport payments.
+* **Automated Public Transport Payment System:** [Safiri] Conceptualizing a project to streamline public transport payments.
 * **CoreTech Africa (ESIT-FARM):** Contributing to a farm management system.
 
 
